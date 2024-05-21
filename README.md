@@ -1,3 +1,5 @@
+![banner](banner-home.png)
+
 # 👋 Hi there! I'm Elvis
 
 With over two decades of successful industry experience, I bring a wealth of knowledge in cloud technology and leadership to the table. Throughout my career, I've spearheaded and steered large-scale software projects, intricately crafting and implementing sophisticated cloud-based systems that drive operational excellence.
